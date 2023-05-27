@@ -1,2 +1,1 @@
-# Lecfile_01
-Lectfile.c
+#include<studio.h>
