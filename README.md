@@ -4,7 +4,7 @@
 int main(){
   FILE * ptr;
   char archivo[80] = "expresion.txt";
-  char cadena;
+  char cadena[90] = "esto necesita practica";
   int i;
   ptr = fopen(archivo, w);
   if(ptr){
